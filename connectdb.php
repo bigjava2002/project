@@ -3,10 +3,10 @@
 
 class createConnection 
 {
-    var $host="localhost";
-    var $username="root";    // change this
-    var $password="Dhillon7"; //change this
-    var $database="infoempire_assignment";
+    var $host="";
+    var $username="";    // change this
+    var $password=""; //change this
+    var $database="";
     var $myconn;
   
     var $userid;
