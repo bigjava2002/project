@@ -1,5 +1,5 @@
 Infoempire Assignment 
-Davinder Dhillon
+bigjava2002
 
 To Install:
 1) create a database called infoempire_assignment
@@ -8,9 +8,9 @@ To Install:
 4) starting page is index.php
 
 
-I was not entirely sure about the requirements of this assignment.  I can explain my interpretation of what I thought the assignment objective was.  The user, the client, can store information of different services within his/her profile.  There are 5 fields that exist for each service which can be changed by the user but first has to be confirmed by the ADMIN. There exists an ADMIN for each service that can view the data but cannot change the data in the input field.  However, if the Client requested a change of data then the Admin can confirm the change and will update the Client information.  A history of changes are tracked.
+ The user, the client, can store information of different services within his/her profile.  There are 5 fields that exist for each service which can be changed by the user but first has to be confirmed by the ADMIN. There exists an ADMIN for each service that can view the data but cannot change the data in the input field.  However, if the Client requested a change of data then the Admin can confirm the change and will update the Client information.  A history of changes are tracked.
 
-For simplicity, I neglected adding or subsidized certain components of the assignment.  For examples: No password hashing; Error handlingSQL injection can occur 
+For simplicity, I neglected adding or subsidized certain components of the project.  For examples: No password hashing; Error handlingSQL injection can occur (however I will be working on these components in the near future)
 
 Client Info
 username:   username
